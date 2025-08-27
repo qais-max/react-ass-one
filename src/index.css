@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+/** {
+  margin: 0;
+  padding: 0;
+  
+  max-width: 100%;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 8dvh;
+  background: gold;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.desk-nav {
+  display: block;
+  display: flex;
+  gap: 2rem;
+}
+li {
+  list-style: none;
+  color: white;
+  font-size: large;
+}
+.lg {
+  color: white;
+  font-size: large;
+}
+.hamburger {
+  height: 2.2rem;
+  width: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding-top: 1rem;
+  background: white;
+  border-radius: 1.25rem;
+}
+.bars {
+  height: 0.2rem;
+  margin-left: 0.5rem;
+  border-radius: 5rem;
+  width: 2rem;
+  background-color: black;
+}
+.mobile-nav {
+  display: none;
+}
+p {
+  height: 13rem;
+  width: 19rem;
+}
+.hero-cnt {
+  display: flex;
+  gap: 3rem;
+  margin: 2rem;
+}
+.f-card {
+  background: lightcoral;
+}
+.s-card {
+  background: green;
+}
+
+@media screen and (max-width: 900px) {
+  .desk-nav {
+    display: none;
+  }
+  .mobile-nav {
+    display: block;
+  }
+  .hero-cnt {
+    display: flex;
+    gap: 3rem;
+    margin: 2rem;
+    flex-direction: column;
+  }
+}*/
