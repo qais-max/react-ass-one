@@ -10,7 +10,7 @@ export default function Head() {
             <li>Portfolio</li>
           </ul>
           <div className="mobile-nav md:hidden  mb:block">
-            <div className="hamburger h-8 w-8 flex gap-2 flex-col mr-2 bg-red-500">
+            <div className="hamburger h-8 w-8 flex gap-2 flex-col mr-2 ">
               <div className="bars h-1 w-8 bg-black "></div>
               <div className="bars h-1 w-8 bg-black "></div>
               <div className="bars h-1 w-8 bg-black"></div>
